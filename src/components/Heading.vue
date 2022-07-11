@@ -1,9 +1,8 @@
 <template>
 <section>
   <div class="container">
-    <div class="ratio-130-108">
+    <div class="ratio ratio-11x9">
       <img  src="../assets/img/5stepsToAuto.jpg"/>
-
     </div>
     <p>
       Доколку сакате да купите возило на лизинг Ве молиме детално прегледајте ги податоците на оваа страна.
