@@ -9,7 +9,7 @@
   <div class="px-4">
     <ul>
       <li v-for="doc in docs">
-        {{doc.text}} <a  :href="doc.link" v-if="doc.nameLink">({{doc.nameLink}})</a>
+        {{doc.text}} <a  target="_blank"  :href="doc.link" v-if="doc.nameLink">({{doc.nameLink}})</a>
       </li>
     </ul>
   </div>
