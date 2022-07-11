@@ -1,7 +1,10 @@
 <template>
 <section>
   <div class="container">
-    <img class="ratio ratio-16x9" src="../assets/img/5stepsToAuto.jpg"/>
+    <div class="ratio-130-108">
+      <img  src="../assets/img/5stepsToAuto.jpg"/>
+
+    </div>
     <p>
       Доколку сакате да купите возило на лизинг Ве молиме детално прегледајте ги податоците на оваа страна.
       Подолу имате калкулатор со кој можете орентационо да ги пресметате ратите за лизингот.
