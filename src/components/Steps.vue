@@ -1,7 +1,10 @@
 <template>
   <section class="container">
+
     <h1 class="py-3">Чекори за купување возило на лизинг:</h1>
+
     <div class="px-4">
+
       <ol>
         <li v-for="step in steps">
           <h6>{{step.headline}}</h6>
@@ -9,8 +12,8 @@
           <strong>{{step.warrning}}</strong>
         </li>
       </ol>
-    </div>
 
+    </div>
 
   </section>
 </template>
